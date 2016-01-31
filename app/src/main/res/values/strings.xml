@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">计算器哟~</string>
+    <string name="ButtonClear">C</string>
+    <string name="ButtonDel">Del</string>
+    <string name="ButtonDivide">÷</string>
+    <string name="Button7">7</string>
+    <string name="Button8">8</string>
+    <string name="Button9">9</string>
+    <string name="ButtonMultiply">×</string>
+    <string name="Button4">4</string>
+    <string name="Button5">5</string>
+    <string name="Button6">6</string>
+    <string name="ButtonMinus">－</string>
+    <string name="Button1">1</string>
+    <string name="Button2">2</string>
+    <string name="Button3">3</string>
+    <string name="ButtonAdd">＋</string>
+    <string name="ButtonPoint">.</string>
+    <string name="Button0">0</string>
+    <string name="ButtonEqual">＝</string>
+    <string name="ButtonChangeRight">→_→</string>
+    <string name="ButtonChangeLift">←_←</string>
+    <string name="ButtonRightBracket">(</string>
+    <string name="ButtonLiftBracket">)</string>
+    <string name="ButtonPI">π</string>
+    <string name="ButtonE">e</string>
+    <string name="ButtonSQR">√</string>
+    <string name="ButtonPower">^</string>
+    <string name="ButtonFactorial">!</string>
+    <string name="ButtonSin">sin(</string>
+    <string name="ButtonCos">cos(</string>
+    <string name="ButtonTan">tan(</string>
+    <string name="ButtonNapierianLogarithm">ln(</string>
+    <string name="ButtonTenLogarithm">log(</string>
+</resources>
